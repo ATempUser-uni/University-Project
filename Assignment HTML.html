@@ -1,18 +1,24 @@
-<!DOCTYPE html>
+<script src="https://unpkg.com/htmx.org@2.0.4" integrity="sha384-HGfztofotfshcF7+8n44JQL2oJmowVChPTg48S+jvZoztPfvwD79OC/LTtG6dMp+" crossorigin="anonymous"></script>
 <html>
-<title>University Project</title>
 <body>
 
 <h1>ICT171 Project - Lleyton Wood/35736041</h1>
 <p>This is website for my ICT171 Project. My project was to create a website that can host images from a game taken by a small community. The images are often refered to as a "Gpose" in the community</p>
 
 <h2> 404 Gposes </h2>
-<p> This images is from Saki and is named "Boo". </p>
+<div hx-get"saki.sh" hx-swap="innerHtml" hx-trigger="mouseenter once">
+       <h3> Hover over for Image Information</h3>
+</div>
 
 <img src="https://www.dropbox.com/scl/fi/5r6j7hpqhl59up0rlwnwj/Saki.png?rlkey=jpc4z675p77lqcx8ri2ztufoy&e=1&st=z80e1gfh&raw=1"
  alt="Saki" width="500" height="333">  <!-- Using dropbox images was learnt from this youtube video  https://www.youtube.com/watch?v=MoS5Be55IZI . It has been used to upload my images online so that you can view them! -->
 
-<p> This images is from Occult and is named "Beds Beds Beds". </p>
+<p></p>
+<p></p>
+
+<div hx-get"occult.sh" hx-swap="innerHtml" hx-trigger="mouseenter once">
+       <h4> Hover over for Image Information</h4>
+</div>
 
 <img src="https://www.dropbox.com/scl/fi/9gat8v1te8g1l0ynimw4s/OC.png?rlkey=g2ot35l9qe5k9kjyqufu4poar&st=2brva0oi&raw=1"
  alt="OC" width="500" height="333">
