@@ -21,4 +21,8 @@ DNS documentation - Contains the steps used to create a DNS for the website
 
 SSL documentation - Contains the steps used to create a digital certificate for the website
 
+Script documentation - Contains the inspiration used in the scripts
+
+Resources - Contains the websites and videos I used for the assignment
+
 -------------------
