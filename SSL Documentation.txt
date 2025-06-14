@@ -1,0 +1,9 @@
+To obtain a digital certificate for the website I went to the website  https://certbot.eff.org/
+
+On certbot I provided my server details of my html running apache on Linux(snap).
+
+After providing these details the website provided steps to follow to obtain my digital certificate.
+
+These steps involved ensuring the instance had snap installed and running a line of code provided by the website to generate the certificate.
+
+I tested that the certificate worked by viewing the website and observing if I could view the certificate from the lock by the URL and confirmed it did work.

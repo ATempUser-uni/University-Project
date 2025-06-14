@@ -1,0 +1,3 @@
+To obtain the DNS the website https://my.noip.com
+
+By entering in the public IPv4 of the amazon ec2 instance the website allowed me to create a custom DNS for the site.
