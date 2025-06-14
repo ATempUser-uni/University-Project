@@ -1,0 +1,6 @@
+#!/usr/bin/bach
+
+echo "Content-type: text/html"
+echo ""
+echo "<p><b> Creator :</b> Saki</p>"
+echo "<p><b> Image Name :</b> Boo</p>"
