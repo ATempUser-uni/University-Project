@@ -1,0 +1,12 @@
+Murdoch Resources - I used various labs to help run my server, obtain my SSL certificate and DNS. The examples there are not a complete list of how the units resources helped me.
+
+How to put Bash Scripts on the Web (https://www.youtube.com/watch?v=Jzcu4JheCtY) - This video showed me how to add bash scripts to my html page.
+
+htmlx (https://htmx.org/docs/) - This website was key to using bash scripts on my html page. It shows how to install htmlx and various triggers I could use to activate the bash scripts.
+
+w3schools (https://www.w3schools.com/html/) - w3schools helped me learn the basics needed to create a html page.
+
+How to use Dropbox image in Html Page and Websites | HTML5 (https://www.youtube.com/watch?v=MoS5Be55IZI) - This video helped solve the issues I faced in showing images on my html.
+
+Dropbox - Dropbox helped store my images and provided a link that I could easily add them to my html page.
+
