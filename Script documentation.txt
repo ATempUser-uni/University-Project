@@ -3,3 +3,5 @@ The scripts used are based on the scripts from the lab exercise and the video "h
 While similar to the scripts provided I adjusted them to fit my uses.
 
 Script is a simple echo bash script with the use of html symbols to allow it to display on the page properly
+
+Sometimes the html is a bit slow to update on hovering so clicking a few times might help
