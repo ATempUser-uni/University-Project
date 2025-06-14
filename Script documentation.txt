@@ -1,0 +1,3 @@
+The scripts used are based on the scripts for the lab exercise and the video "https://www.youtube.com/watch?v=Jzcu4JheCtY" 
+
+While similar to the scripts provided I adjusted them to fit my uses.
