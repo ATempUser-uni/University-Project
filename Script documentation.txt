@@ -1,3 +1,5 @@
 The scripts used are based on the scripts for the lab exercise and the video "https://www.youtube.com/watch?v=Jzcu4JheCtY" 
 
 While similar to the scripts provided I adjusted them to fit my uses.
+
+Script is a simple echo bash script with the use of html symbols to allow it to display on the page properly
